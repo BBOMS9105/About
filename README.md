@@ -10,7 +10,7 @@ Welcome
 
 # Extracurricular Activities
 - UNPLUG(Rock band) at Chodang University
-    > Lead/Rythm guitar, Sub bass
+    > Lead/Rythm guitar, Sub bass (2017 ~ 2023)
 # Licenses
 - TOEIC 905
 - ROC-A (Restricted Operator Certificate - Aviation)
