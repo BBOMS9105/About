@@ -4,7 +4,7 @@ Welcome
 # Education : 
 ## Chodang University
 - College of Aviation
-- Bachelor of Drones   Cumulative GPA 3.7/4.5   2017.03 ~ 2023.02
+- Bachelor of Drones    Cumulative GPA 3.7/4.5    2017.03 ~ 2023.02
 
 # Extracurricular Activities
 - UNPLUG(Rock band) at Chodang University
