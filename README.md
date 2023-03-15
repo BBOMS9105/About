@@ -2,7 +2,7 @@
 Welcome
 
 # Education : 
-## College of Aviation
-- Chodang University
+## Chodang University
+###College of Aviation
 - Bachelor of Drones
 - Cumulative GPA 3.7/4.5
