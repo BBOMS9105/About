@@ -13,8 +13,8 @@ Welcome
     > Lead/Rythm guitar, Sub bass (2017 ~ 2023)
 # Licenses
 - TOEIC 905
+- Pilot of an Ultra Light Vehicle/Unmanned Multicopter/1st
 - ROC-A (Restricted Operator Certificate - Aviation)
-- 초경량비행장치 무인멀티콥터 1종
 - Driver's license (Type 2)
 
 # Projects
