@@ -1,5 +1,5 @@
 # About
-Welcome
+Greetings
 
 # Education : 
 ## Chodang University
