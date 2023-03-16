@@ -1,7 +1,7 @@
 # About
 Greetings
 
-# Education : 
+# Education
 ## Chodang University
 - College of Aviation
 > Bachelor of Drones
