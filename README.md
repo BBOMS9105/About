@@ -15,7 +15,7 @@
 - TOEIC 905
 - Pilot of an Ultra Light Vehicle/Unmanned Multicopter/1st
 - ROC-A (Restricted Operator Certificate - Aviation)
-- Driver's license (Type 2)
+- Driver's license ROK/2nd Class(Ordinary)
 
 # Projects
 
