@@ -8,6 +8,10 @@
 >> Cumulative GPA 3.6/4.5
 >>> 2017.03 ~ 2023.02
 
+## Human Education Center
+- 공공데이터 활용 빅데이터 분석 및 시각화 전문가 과정
+> 2023.01 ~ 2023.07
+
 # Extracurricular Activities
 
 # Licenses
